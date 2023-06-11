@@ -1,4 +1,6 @@
-# thermal_mq_analysis
+# thermal_mq_analysis 
+[![DOI](https://zenodo.org/badge/652235845.svg)](https://zenodo.org/badge/latestdoi/652235845)
+
 Supporting information for JGR-Planets paper "Thermal moonquake characterization and cataloging using frequency-based algorithms and stochastic gradient descent"
 
 Most of this repository contains code can be used to convert seismic data, run analysis, and reproduce every figure displayed in the paper. The rest are miscellaneous data required to run the code. 
