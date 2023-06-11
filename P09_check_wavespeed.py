@@ -1,6 +1,6 @@
 """
 Determine the wavespeed between each station for each event based on traveltime obtained from the finetuned arrival
-times
+times.
 """
 import pandas as pd
 import numpy as np

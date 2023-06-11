@@ -1,5 +1,5 @@
 """
-Sums the events in the original Civilini 2021 catalog and displays them as a daily bar plot
+Sums the events in the Civilini 2021 catalog and displays them as a daily bar plot.
 """
 import os
 import pandas as pd

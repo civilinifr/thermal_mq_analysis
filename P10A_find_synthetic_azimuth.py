@@ -1,6 +1,5 @@
 """
-Assesses the azimuth accuracy obtained using stochastic gradient descent for a synthetic seismic event.
-
+Tests a range of Stochastic Gradient Descent (SGD) parameters for azimuth determination using a synthetic test.
 """
 
 # Import packages

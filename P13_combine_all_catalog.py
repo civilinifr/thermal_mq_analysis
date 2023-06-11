@@ -1,5 +1,5 @@
 """
-Combines the catalog created in P8 with the azimuth results
+Combines the catalog created in P08 with the azimuth results
 """
 # Import packages
 import glob

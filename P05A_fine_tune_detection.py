@@ -1,5 +1,5 @@
 """
-This code fine-tunes the detections originally produced by the Civilini 2021 paper.
+This code fine-tunes the detections originally produced by the Civilini 2021 paper based on parameters obtained in P04
 
 """
 # import packages

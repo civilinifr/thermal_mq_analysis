@@ -1,5 +1,5 @@
 """
-Checks fine-tuning hyperparameters based on the results obtained in P3
+Checks finetuning hyperparameters based on the results obtained in P03
 
 String structure of each run of hyperparameters is based on the following format:
 a_b_c_d

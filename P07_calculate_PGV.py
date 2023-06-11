@@ -1,5 +1,5 @@
 """
-Use the sac data created from the P6 code to find the Peak Ground Velocity (PGV) for each Grade A event.
+Use the sac data created from the P06 code to find the Peak Ground Velocity (PGV) for each Grade A event.
 
 """
 # Import packages

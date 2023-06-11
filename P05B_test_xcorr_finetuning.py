@@ -1,6 +1,5 @@
 """
-Assesses finetuning using a cross-correlation. Used to illustrate why finetuning in the time domain is difficult.
-
+Assesses the potential of using cross-correlation to finetune the arrival times.
 """
 # import packages
 import pickle

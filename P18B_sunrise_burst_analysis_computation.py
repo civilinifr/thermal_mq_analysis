@@ -1,5 +1,5 @@
 """
-Assesses the moonquake start times picked in P18
+Assesses the moonquake start times picked in P18A
 """
 import pandas as pd
 import numpy as np

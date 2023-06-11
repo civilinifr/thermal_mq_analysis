@@ -1,5 +1,5 @@
 """
-After obtaining a preferred set of parameters in P10, this code tests the accuracy of those parameters in the case that
+After obtaining a preferred set of parameters in P10A, this code tests the accuracy of those parameters in the case that
 the real wavespeed is different from the hypothesized wavespeed.
 
 In other words, it answers the question of how sensitive the results are to the presumed wavespeed.

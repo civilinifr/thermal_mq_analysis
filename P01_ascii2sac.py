@@ -1,6 +1,5 @@
 """
-Takes input LSPE daily ASCII data and converts it to hourly SAC files
-
+Converts daily ASCII data to hourly SAC data in decompressed volts.
 """
 
 # Import packages
