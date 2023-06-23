@@ -84,7 +84,7 @@ def main():
     # # Remove all values greater than 200 m/s, nans, and in our previous list
     bad_vel_ind = []
     evids_to_exclude = ['770425-00-M1', '761111-21-M2', '770416-10-M1', '770325-13-M6', '770114-15-M1',
-                        '761105-08-M1', '770314-22-M1', '761021-07-M1', '760901-14-M2']
+                        '761105-08-M1']
     for exclude_evid in evids_to_exclude:
         bad_vel_ind.append(np.where(total_evids == exclude_evid)[0][0])
 

@@ -1579,7 +1579,7 @@ cat_df = pd.read_csv(catalog_file)
 
 # Remove problematic events from the catalog
 evids_to_exclude = ['770425-00-M1', '761111-21-M2', '770416-10-M1', '770325-13-M6', '770114-15-M1',
-                    '761105-08-M1', '770314-22-M1', '761021-07-M1', '760901-14-M2']
+                    '761105-08-M1']
 cat_df = remove_evts_from_cat(cat_df, evids_to_exclude)
 
 assess_stats(cat_df)
