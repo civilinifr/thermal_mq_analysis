@@ -475,8 +475,7 @@ def process_data(input_folder, unique_dayhour, ad_plots, output_folder, resp_f, 
     These steps are:
     p_out -> v_in -> v_out -> d_out
 
-    We will be working with the uncompressed (analog) voltage, given by the sac files in the Zenodo database, so we only
-    need to run the last step.
+    We will be working with the uncompressed (analog) voltage, so we only need to run the last step.
 
     :param input_folder: [str] Path to input folder of sac data
     :param unique_dayhour: [touple] Unique day-hour touple to get the representative files
